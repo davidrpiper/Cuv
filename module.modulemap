@@ -1,5 +1,5 @@
 module Cuv [system] {
-  header "shim.h"
-  link "uv"
-  export *
+    header "shim.h"
+    link "uv"
+    export *
 }
